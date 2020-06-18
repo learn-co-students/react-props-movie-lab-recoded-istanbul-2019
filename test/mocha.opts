@@ -1,3 +1,0 @@
---timeout 10000
---require babel-core/register
---require ./test/mochacfg.js
